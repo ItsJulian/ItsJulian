@@ -2,7 +2,7 @@
 
 <p>Hi, I'm Julian Meurer, a software developer from <img src="https://image.flaticon.com/icons/svg/197/197441.svg" width="13"/> <b>the Netherlands<b>.</p>
 
-<h3>Languages and Tools I use</h2>
+<h3>Languages and Tools I use</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
@@ -42,7 +42,7 @@
   <img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
 </p>
 
-
+<!--
 <h3>Projects I work on</h2>
 <table>
   <thead align="center">
@@ -64,3 +64,32 @@
     </tr>
   </tbody>
 </table>
+-->
+
+<h3>How to contact me</h3>
+<p>
+  <a href="https://julianmeurer.dev" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/-Website-007ACC.svg?&style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/julian-meurer" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/ItsJulian" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/julian.meurer/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+
+ <a href="mailto:julian@meurer.email" target="_blank">
+    <img alt="E-mail" src="https://img.shields.io/badge/-Email-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+<h3>My Github Statistics</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsJulian&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+</p>
