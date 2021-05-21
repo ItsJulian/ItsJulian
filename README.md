@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, I'm Julian Meurer! 👋
 
-<!--
-**ItsJulian/ItsJulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/julian-meurer/">
+  <img align="left" alt="Julian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ItsJulian/ItsJulian/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://open.spotify.com/user/itsjuliiian">
+  <img align="left" alt="Julian's Spotify" width="22px" src="https://raw.githubusercontent.com/ItsJulian/ItsJulian/master/assets/spotify.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Hi, I'm [Julian Meurer](), a software engineering student and freelancer from the Netherlands. 
+
