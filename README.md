@@ -68,7 +68,7 @@
 
 <h3>How to contact me</h3>
 <p>
-  <a href="https://julianmeurer.dev" target="_blank">
+  <a href="https://meurer.dev" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/-Website-007ACC.svg?&style=for-the-badge" />
   </a>
 
