@@ -81,7 +81,7 @@
   </a>
   
   <a href="https://gitlab.com/ItsJulian" target="_blank">
-    <img alt="Gitlab" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Gitlab&logoColor=white" />
+    <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-403932.svg?&style=for-the-badge&logo=Gitlab&logoColor=white" />
   </a>
 
 
