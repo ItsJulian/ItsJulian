@@ -1,6 +1,6 @@
 <h1>Hey, I'm Julian Meurer! 👋 </h1>
 
-<p>Hi, I'm Julian Meurer, a software developer from <img src="https://image.flaticon.com/icons/svg/197/197441.svg" width="13"/> <b>the Netherlands<b>.</p>
+<p>Hi, I'm Julian Meurer, a software developer from <img src="https://github.com/ItsJulian/ItsJulian/blob/master/netherlands.png" width="13"/> <b>The Netherlands<b>.</p>
 
 <h3>Languages and Tools I use</h3>
 <p>
