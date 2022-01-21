@@ -42,30 +42,6 @@
   <img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
 </p>
 
-<!--
-<h3>Projects I work on</h2>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/project"><b>Name</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/projects?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/projects?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/projects?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
--->
-
 <h3>How to contact me</h3>
 <p>
   <a href="https://meurer.dev" target="_blank">
@@ -93,9 +69,4 @@
     <img alt="E-mail" src="https://img.shields.io/badge/-Email-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   
-</p>
-
-<h3>My Github Statistics</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsJulian&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
 </p>
